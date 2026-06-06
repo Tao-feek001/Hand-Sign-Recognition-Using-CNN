@@ -1,0 +1,20 @@
+# Data and datasets
+data/
+dataset.zip
+
+# Model weights & large artifacts
+outputs/models/
+*.pt
+*.pth
+*.onnx
+*.pkl
+
+# Jupyter & Python cruft
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
